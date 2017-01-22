@@ -1,20 +1,10 @@
----
-title: Visao
-description: A simple way to explain intrinsic and extrinsic camera parameters using Qt and OpenGL
-author: Dennis G. Romero
-created:  2011 Mar 15
-modified: 2014 Apr 16
-
----
 
 Visao
 =========
 
 ## A simple way to explain intrinsic and extrinsic camera parameters using Qt and OpenGL
 
-### VISAO:
-
-[![visao screenshot](https://github.com/dromero12/visao/raw/master/images/camera.png)]
+[![visao screenshot](https://github.com/dromero12/visao/raw/master/images/visao.png)]
 
 #### Requirements:
 
