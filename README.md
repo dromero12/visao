@@ -1,7 +1,4 @@
 
-Visao
-=========
-
 ## A simple way to explain intrinsic and extrinsic camera parameters using Qt and OpenGL
 
 [![visao screenshot](https://github.com/dromero12/visao/raw/master/images/visao.png)](#Requirements)
